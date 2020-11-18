@@ -8,7 +8,7 @@
             <div class="col-md-9 ">
                 <div class="panel panel-default">
                     <div class="panel-heading" style="background-color:#337AB7; color:white;">
-                        <h4><b>Tìm kiếm: {{$tukhoa}}</b></h4>
+                        <h4><b>Tìm kiếm với từ khóa: {{$tukhoa}}</b></h4>
                     </div>
                     @foreach($tintuc as $tt)
                     <div class="row-item row">
